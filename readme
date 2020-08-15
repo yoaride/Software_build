@@ -3,3 +3,7 @@ Proyecto simple de una pagina web sencilla
 v1.0.1 corrige error en etiqueta titulo y agrega un parrafo
 
 v1.1.0 se agrega un subtitulo a la pagina como nueva caracteristica
+
+v1.2.0 se agrega un nuevo subtitulo y se da un estilo sencillo a la pagina 
+       se resuelve problema de conflicto de fusion en elsubtitulo se deja el subtitulo 
+       proveniente de el branch feature2
